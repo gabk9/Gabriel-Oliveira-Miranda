@@ -52,7 +52,7 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 ### 📈 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabk9&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" />
 </p>
 
 ---
