@@ -59,11 +59,12 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 
 ### 📌 Projetos em destaque
 
-- 📊 [Calculadora de IMC multilíngue e com suporte a sistemas de unidades (C)](https://github.com/SeuUsuarioAqui/imc-multilang)
-- 🔐 [Cifra de César com interface de terminal (C/Python)](https://github.com/SeuUsuarioAqui/cifra-cesar)
-- 🧾 [Sistema de cadastro de alunos com gravação em arquivo (C)](https://github.com/SeuUsuarioAqui/cadastro-alunos)
-- 🌐 [Site sobre os tipos de variáveis em Java (HTML/CSS)](https://github.com/SeuUsuarioAqui/site-tipos-variaveis)
-- ❓ [Quiz interativo sobre declaração de variáveis (JavaScript)](https://github.com/SeuUsuarioAqui/quiz-variaveis)
+- 📊 [Calculadora de IMC Multilíngue (C)](https://github.com/SeuUsuarioAqui/imc-multilang)
+- 🔐 [Cifra de César no Terminal (C)](https://github.com/SeuUsuarioAqui/cifra-cesar-c)
+- 🗂️ [Sistema de Cadastro de Alunos (C)](https://github.com/SeuUsuarioAqui/cadastro-alunos-c)
+- 🌐 [Site Interativo: Tipos de Variáveis (HTML, CSS, JS)](https://github.com/SeuUsuarioAqui/tipos-de-variaveis-site)
+- 🧠 [Quiz sobre Declaração de Variáveis (C)](https://github.com/SeuUsuarioAqui/quiz-variaveis-c)
+
 ---
 
 ### 📫 Contato
