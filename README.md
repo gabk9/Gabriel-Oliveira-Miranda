@@ -59,10 +59,11 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 
 ### 📌 Projetos em destaque
 
-- 🔧 [Calculadora de IMC Multilíngue (C)](https://github.com/SeuUsuarioAqui/imc-multilang)
-- 🐍 [Jogo da Cobrinha com Menu e Som (Python)](https://github.com/SeuUsuarioAqui/cobrinha-python)
-- 🎮 [Cobrinha com SDL2 (C)](https://github.com/SeuUsuarioAqui/cobrinha-sdl2)
-
+- 📊 [Calculadora de IMC multilíngue e com suporte a sistemas de unidades (C)](https://github.com/SeuUsuarioAqui/imc-multilang)
+- 🔐 [Cifra de César com interface de terminal (C/Python)](https://github.com/SeuUsuarioAqui/cifra-cesar)
+- 🧾 [Sistema de cadastro de alunos com gravação em arquivo (C)](https://github.com/SeuUsuarioAqui/cadastro-alunos)
+- 🌐 [Site sobre os tipos de variáveis em Java (HTML/CSS)](https://github.com/SeuUsuarioAqui/site-tipos-variaveis)
+- ❓ [Quiz interativo sobre declaração de variáveis (JavaScript)](https://github.com/SeuUsuarioAqui/quiz-variaveis)
 ---
 
 ### 📫 Contato
