@@ -59,11 +59,11 @@ E no futuro, quem sabe até **Assembly** ou **COBOL**!
 
 ### 📌 Projetos em destaque
 
-- 📊 [Calculadora de IMC Multilíngue (C)]([https://github.com/SeuUsuarioAqui/imc-multilang](https://github.com/gabk9/Meus-projetos-C/blob/main/IMC.c))
-- 🔐 [Cifra de César no Terminal (C)]([https://github.com/SeuUsuarioAqui/cifra-cesar-c](https://github.com/gabk9/Meus-projetos-C/blob/main/CifraCesar.c))
-- 🗂️ [Sistema de Cadastro de Alunos (C)]([https://github.com/SeuUsuarioAqui/cadastro-alunos-c](https://github.com/gabk9/Meus-projetos-C/blob/main/CadastrarAlunos.c))
-- 🌐 [Site Interativo: Tipos de Variáveis (HTML, CSS, JS)]([https://github.com/SeuUsuarioAqui/tipos-de-variaveis-site](https://github.com/gabk9/Meus-projetos-Web/tree/main/Tipos%20de%20variáveis))
-- 🧠 [Quiz sobre Declaração de Variáveis (C)]([https://github.com/SeuUsuarioAqui/quiz-variaveis-c](https://github.com/gabk9/Meus-projetos-C/blob/main/Variaveis.c))
+- 📊 [Calculadora de IMC Multilíngue (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/IMC.c)
+- 🔐 [Cifra de César no Terminal (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/CifraCesar.c)
+- 🗂️ [Sistema de Cadastro de Alunos (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/CadastrarAlunos.c)
+- 🌐 [Site Interativo: Tipos de Variáveis (HTML, CSS, JS)](https://github.com/gabk9/Meus-projetos-Web/tree/main/Tipos%20de%20variáveis)
+- 🧠 [Quiz sobre Declaração de Variáveis (C)](https://github.com/gabk9/Meus-projetos-C/blob/main/Variaveis.c)
 
 ---
 
