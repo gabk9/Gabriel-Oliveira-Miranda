@@ -15,7 +15,7 @@ Atualmente desenvolvo principalmente em:
 - **HTML & CSS**
 - **Python**
 
-Estou em constante evolução e buscando me aprofundar em outras linguagens como:
+Atualmente estou em constante evolução e buscando me aprofundar em outras linguagens como:
 
 - **JavaScript**
 - **Java**
